@@ -5,3 +5,4 @@ Sample pull push request
 - School: Florida State University
 - Year: Senior
 - Hobbies: Football, Surfing, Fishing, Diving, Spearfishing
+- edits
